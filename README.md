@@ -61,7 +61,7 @@ self.view下的containerScrollView容器，容器里面放着topView(区域1)和
 ###最后
 欢迎大家继续完善，并提供其他更简单的实现方案。
 
-下拉刷新用了<a href="https://github.com/CoderMJLee/MJRefresh" target="_blank"><u>MJRefresh</u></font></a>框架
+下拉刷新用了<a href="https://github.com/CoderMJLee/MJRefresh">MJRefresh</a>框架
 
 为了frame方便书写，写了`UIView+Size`的分类
 
