@@ -64,3 +64,5 @@ self.view下的containerScrollView容器，容器里面放着topView(区域1)和
 下拉刷新用了[MJRefresh](https://github.com/CoderMJLee/MJRefresh)框架
 
 为了frame方便书写，写了`UIView+Size`的分类
+
+若Clone下来编译错误，请在项目路径下执行`pod install`后重新编译运行
