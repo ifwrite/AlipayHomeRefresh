@@ -2,8 +2,6 @@
 
 ### 简介
 
-**`Demo地址`: [https://github.com/swifterfit/AlipayHomeRefresh](https://github.com/swifterfit/AlipayHomeRefresh)**
-
 最近项目有需求要做类似支付宝首页的效果，在这种特殊位置下拉刷新的效果，其他效果如导航栏效果这里暂不处理。如下图：
 
 ![](http://oma38gsun.bkt.clouddn.com/AlipayHomeRefresh%E5%9B%BE1.png)
